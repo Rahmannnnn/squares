@@ -139,7 +139,7 @@ function App() {
   return (
     <div className="container">
       <div className="question">
-        <h1 className="question__title">Squares Solver</h1>
+        <h1 className="question__title">Squaredle Solver</h1>
         <div className="question__input">
           {board.map((column, i) => {
             return (
